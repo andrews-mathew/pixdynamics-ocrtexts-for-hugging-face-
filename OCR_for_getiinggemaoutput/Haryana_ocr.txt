@@ -1,0 +1,30 @@
+DLNUMBER
+HR03 20190006189
+APURVA MANCHANDA
+Inv Carr No.
+NAME
+S/WID
+JATINDER KUMAR
+DOB
+10-Aug-2000
+Validity (NT) 09-Aug-2040
+Blood Grp
+B4
+Address
+HOUSE 2143SECTOR 15
+PANCHKULA,HR 134109
+Issue Date
+09-Oct-2019
+HI
+Andhaar No
+Authorisation to Drive
+Date Of issue
+LMV
+MCWOG
+0S-October-2019
+09-October-2019
+Holder
+Issue
+Signature
+Auth
+Signal
